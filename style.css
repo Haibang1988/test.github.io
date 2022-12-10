@@ -1,0 +1,39 @@
+.bg-img1, img{
+    background-color: #000;
+    background-size: cover;
+    /* background-image: url(./gallery-img-2.jpg); */
+    height: 50vh;
+    /* background-repeat: repeat-x; */
+    
+    
+
+}
+
+
+.bg-img2, img {
+    background-color: #000;
+    background-size: cover;
+    height: 50vh;
+   
+}
+
+.bg-img3, img{
+    background-color: #000;
+    background-size: cover;
+    height: 50vh;  
+  
+}
+
+/* .test {
+    height: 1000px;
+    background-color: red;
+} */
+
+/* body {
+    position: relative;
+    top: 100px;
+}
+.carousel-inner {
+    color: black;
+    height: 1000px;
+    /* background-color:antiquewhite; */
